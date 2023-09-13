@@ -9,6 +9,9 @@
 
  </p>
 
+ <b>Clone Project Laravel dari Git </b> <br>
+ https://medium.com/angkringan/cara-clone-project-laravel-dari-git-bb2dd403dde3
+
 # Pehami MVC
 <b>Model </b> : Bagian yang bertugas untuk menyiapkan, mengatur, memanipulasi, dan mengorganisasikan data yang ada di database. <br>
 <b>View </b> : Bagian yang bertugas untuk menampilkan informasi dalam bentuk Graphical User Interface (GUI).<br>
